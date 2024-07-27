@@ -1,4 +1,4 @@
-<h1 align="center"> Próximo Destino </h1>
+<h1 align="center"> Flutuar Viagens </h1>
 
 <p align="center">
 Projeto de página web, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
