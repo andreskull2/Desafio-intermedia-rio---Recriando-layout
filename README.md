@@ -19,7 +19,7 @@ Projeto de página web, promovido pela Rocketseat para ensino de tecnologias WEB
 <br>
 
 <p align="center">
-  <img alt="projeto Próximo Destino" src="Github/Thumbnail.png" width="100%">
+  <img alt="projeto Próximo Destino" src="Github/thumbnail.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
